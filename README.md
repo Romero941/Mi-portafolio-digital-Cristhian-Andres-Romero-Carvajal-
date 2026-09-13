@@ -5,18 +5,18 @@ Soy Cristhian Andrés Romero Carvajal, estudiante de grado 11, curso 03 de la In
 - Institución: Institución Educativa El Chaira José María Córdoba
 - Grado: 11, curso 03.
 - Formación técnica: Técnico en Contabilización de Operaciones Comerciales y Financieras.
-- Actualmente estoy cursando mi último año de bachillerato y, al mismo tiempo, estoy realizando una formación técnica en Contabilización de Operaciones Comerciales y Financieraspor medio del Sena. Durante este proceso he adquirido nuevos conocimientos y experiencias que me han ayudado a desarrollar habilidades para mi futuro académico y laboral.
+- Actualmente estoy cursando mi último año de bachillerato y, al mismo tiempo, estoy realizando una formación técnica en Contabilización de Operaciones Comerciales y Financieraspor medio del Sena. He adquirido nuevos conocimientos y experiencias que me han ayudado a desarrollar habilidades para mi futuro académico y laboral.
 ## Habilidades blandas
 - Responsabilidad: Me gusta cumplir con las actividades se me asignan.
-- Trabajo en equipo: Me gusta colaborar con otras personas para alcanzar un objetivo común.
-- Comunicación: Puedo expresar mis ideas y escuchar las opiniones de los demás.
+- Trabajo en equipo: Me gusta colaborar para alcanzar un objetivo común.
+- Liderazgo: ayudo a mis compañeros con trabajos que necesitan para así ellos lograr un objetivo.
 ## Habilidades técnicas
-- Manejo básico de Word, Excel y PowerPoint.
+- Manejo básico de Word, Excel y Powe
 - Conocimientos básicos de contabilidad y operaciones comerciales y financieras.
 - Organización y manejo de información para trabajos académicos.
 - Uso de herramientas digitales para realizar trabajos y presentaciones.
 ## Proyectos destacados
-- Proyecto ambiental: Puntos ecológicos;
+- Proyecto ambiental: Construcción puntos ecológicos;
 participé en un proyecto ambiental enfocado en enseñar a estudiantes de primaria la importancia de separar correctamente los residuos. Se realizaron actividades educativas y prácticas para identificar los diferentes tipos de residuos y construir puntos ecológicos.
 Durante el proyecto se trabajó en equipo. Esta experiencia permitió fortalecer el trabajo en equipo y aprender más sobre el cuidado del medio ambiente.
 - Proyecto de energía solar (Día de la ciencia)
